@@ -965,6 +965,13 @@ gtemail.net
 gti.net
 gtmc.net
 gua.net
+guerrillamail.info
+guerrillamail.biz
+guerrillamail.com
+guerrillamail.de
+guerrillamail.net
+guerrillamail.org
+guerrillamailblock.com
 guessmail.com
 guju.net
 gurlmail.com
@@ -3005,6 +3012,7 @@ pobox.sk
 pochta.ru
 poczta.fm
 poetic.com
+pokemail.net
 polbox.com
 policeoffice.com
 pool-sharks.com
@@ -3190,6 +3198,7 @@ shahweb.net
 shaniastuff.com
 sharewaredevelopers.com
 sharmaweb.com
+sharklasers.com
 shaw.ca
 she.com
 shootmail.com
@@ -3252,6 +3261,7 @@ spacemart.com
 spacetowns.com
 spacewar.com
 spamex.com
+spam4.me
 spartapiet.com
 spazmail.com
 speedemail.net
